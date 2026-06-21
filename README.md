@@ -1,8 +1,8 @@
 # 👋 Hi, I'm a Computer Science & Engineering Undergraduate
 
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Status-Building%20In%20Public-blueviolet?style=flat-square" alt="Building in Public" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Backend-blue?style=flat-square" alt="Focus Systems" />
 </p>
 
 > **Student | Deepening my understanding of CSE fundamentals while architecting unique tools in pursuit of tangible, real-world impact.** Actively training for high-performance software engineering through structured algorithmic problem solving and low-level systems execution.
@@ -11,14 +11,14 @@
 
 ### 📬 Connect & Track My Journey
 <p align="left">
-  <a href="https://x.com" target="_blank">
-    <img src="https://shields.io" alt="X Profile" />
+  <a href="https://x.com/_bipanshu24" target="_blank">
+    <img src="https://img.shields.io/badge/X_Profile-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Profile" />
+  <a href="https://leetcode.com/u/avoc_ad0/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://shields.io" alt="LeetCode Profile" />
+  <a href="mailto:bipanshudutta24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -33,11 +33,9 @@
 
 ### 🛠️ Tech Stack & Toolkit
 
-**Languages**  
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+**Languages** <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-**Frameworks & Infrastructure**  
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+**Frameworks & Infrastructure** <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ---
 
@@ -69,22 +67,6 @@
 
 ### 📊 Engineering Consistency & Contribution Metrics
 <p align="left">
-  <img src="https://vercel.app" height="160" alt="GitHub Stats" />
-  <img src="https://herokuapp.com" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avocad024&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avocad024&theme=radical" height="160" alt="GitHub Streak" />
 </p>
-
-
-<!--
-**avocad024/avocad024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
